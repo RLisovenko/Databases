@@ -20,18 +20,25 @@ At the same time, I am able to:
 
 ---
 
-## 📌 Example Databases
+# 📌 Example Databases
 
-### 🔹 Microsoft SQL Server (MSSQL)
-- **Northwind** — classic example with customers, orders, products, and suppliers.  
-- **AdventureWorks** — enterprise-level demo database with sales, HR, and finance modules.  
+## 🔹 Microsoft SQL Server (MSSQL)
+| Database        | Description                                                                 | Link |
+|-----------------|-----------------------------------------------------------------------------|------|
+| **Northwind**   | Classic sample database with customers, orders, products, and suppliers. Ideal for learning queries and joins. | [GitHub - Northwind](https://github.com/microsoft/sql-server-samples/tree/main/samples/databases/northwind-pubs) |
+| **AdventureWorks** | Enterprise-level demo database covering sales, HR, production, and finance. Great for complex query practice and reporting. | [GitHub - AdventureWorks](https://github.com/microsoft/sql-server-samples/releases/tag/adventureworks) |
 
-### 🔹 PostgreSQL
-- **DVD Rental** — movie rental store example (films, actors, customers, rentals).  
+## 🔹 PostgreSQL
+| Database      | Description                                                                 | Link |
+|---------------|-----------------------------------------------------------------------------|------|
+| **DVD Rental** | Movie rental store example with tables for films, actors, customers, and rentals. Good for practicing transactions and joins. | [PostgreSQL Tutorial - DVD Rental](https://www.postgresqltutorial.com/postgresql-sample-database/) |
 
-### 🔹 MySQL
-- **Sakila** — sample database for DVD rental system.  
-- **Employees** — HR-focused database with employees, salaries, and departments.  
+## 🔹 MySQL
+| Database      | Description                                                                 | Link |
+|---------------|-----------------------------------------------------------------------------|------|
+| **Sakila**     | Sample database modeling a DVD rental system, similar to PostgreSQL’s DVD Rental, but designed for MySQL. | [MySQL Documentation - Sakila](https://dev.mysql.com/doc/sakila/en/) |
+| **Employees**  | HR-focused database containing employees, salaries, departments, and job history. Excellent for practicing aggregation and subqueries. | [MySQL Documentation - Employees](https://dev.mysql.com/doc/employee/en/) |
+
 
 ---
 
