@@ -4,8 +4,8 @@ Educational repository containing SQL and Python exercises, hands-on labs, and c
 
 ## Course Information
 
-- **Course:** IBM — Databases and SQL for Data Science with Python
-- **Platform:** Coursera
+- **Course:** Databases and SQL for Data Science with Python
+- **Platform:** 
 - **Completed by:** Ruslan Lisovenko
 - **Study period:** January – March 2026
 - **Repository:** Practical exercises, labs, SQL scripts, Python code, and Jupyter notebooks completed during the course
@@ -104,7 +104,7 @@ The exercises demonstrate hands-on experience with relational databases, SQL que
 ## Course
 
 **IBM — Databases and SQL for Data Science with Python**  
-Coursera: https://www.coursera.org/learn/sql-data-science
+Cours: https://github.com/RLisovenko/Databases/tree/db/edu-SQL-DataScience-Python
 
 ---
 
