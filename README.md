@@ -6,7 +6,7 @@ Educational repository containing SQL and Python exercises, hands-on labs, and c
 
 - **Course:** Databases and SQL for Data Science with Python
 - **Platform:**
-- **Certificate:** [View IBM / Coursera Certificate](docs/IBM_Databases_SQL_DataScience_Python_Certificate_2026-03-09.pdf) · [Verify on Coursera](https://coursera.org/verify/0AOWRHFFFMZ0) 
+- **Certificate:** [View IBM / Coursera Certificate](docs/Databases_SQL_DataScience_Python_Certificate_2026-03-09.pdf) · [Verify](https://coursera.org/verify/0AOWRHFFFMZ0) 
 - **Completed by:** Ruslan Lisovenko
 - **Study period:** January – March 2026
 - **Repository:** Practical exercises, labs, SQL scripts, Python code, and Jupyter notebooks completed during the course
