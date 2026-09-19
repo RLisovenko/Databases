@@ -1,54 +1,111 @@
-# 🗄️ Databases
+# Databases and SQL for Data Science with Python
 
-This section is planned for working with **test/demo databases** to demonstrate queries,  
-data modeling, and integration with applications.  
+Educational repository containing SQL and Python exercises, hands-on labs, and course work from the IBM **Databases and SQL for Data Science with Python** course.
 
-However, it is **strictly prohibited to publish or share production databases** due to confidentiality and security reasons.  
-For this reason, only **test or demo databases** will be considered for inclusion here (e.g., synthetic datasets or public samples).  
+## Course Information
+
+- **Course:** IBM — Databases and SQL for Data Science with Python
+- **Platform:** Coursera
+- **Completed by:** Ruslan Lisovenko
+- **Study period:** January – March 2026
+- **Repository:** Practical exercises, labs, SQL scripts, Python code, and Jupyter notebooks completed during the course
+
+The repository focuses on practical database work: writing SQL queries, creating and modifying relational tables, analyzing data, connecting Python to databases, and applying SQL techniques to real-world datasets.
+
+## Course Topics
+
+### Module 1 — Getting Started with SQL
+- Relational databases and basic database concepts
+- `SELECT`
+- `COUNT`
+- `DISTINCT`
+- `LIMIT`
+- `INSERT`
+- `UPDATE`
+- `DELETE`
+- Filtering results with `WHERE`
+
+### Module 2 — Relational Databases and Tables
+- Relational database concepts
+- DDL vs. DML
+- Creating tables
+- `CREATE TABLE`
+- `ALTER`
+- `DROP`
+- `TRUNCATE`
+- Loading data with SQL scripts
+- Relational model constraints
+
+### Module 3 — Intermediate SQL
+- String patterns and ranges
+- `LIKE`
+- Sorting with `ORDER BY`
+- Grouping with `GROUP BY`
+- Built-in database functions
+- Date and time functions
+- Aggregate functions
+- Subqueries and nested `SELECT`
+- Querying multiple tables
+
+### Module 4 — Accessing Databases with Python
+- Connecting Python applications to databases
+- Python DB-API
+- SQL Magic in Jupyter notebooks
+- SQLite
+- Creating tables from Python
+- Loading and querying data
+- Analyzing SQL results with Python
+
+### Module 5 — Real-World Data Analysis
+- Working with real-world datasets
+- Exploring table and column metadata
+- Writing analytical SQL queries
+- Combining SQL and Python for data analysis
+- Final database querying assignment
+
+### Module 6 — Advanced SQL for Data Engineering
+- Views
+- Stored procedures
+- ACID transactions
+- `COMMIT` and `ROLLBACK`
+- `INNER JOIN`
+- `LEFT / RIGHT / OUTER JOIN`
+- Querying related tables
+
+## Technologies
+
+- SQL
+- Python
+- SQLite
+- IBM Db2
+- Jupyter Notebook
+- Relational Databases
+
+## Skills Practiced
+
+- Database design fundamentals
+- Data Definition Language (DDL)
+- Data Manipulation Language (DML)
+- SQL filtering, sorting, and grouping
+- Aggregate and built-in functions
+- Subqueries
+- Multi-table queries and joins
+- Transactions
+- Views and stored procedures
+- Database access from Python
+- SQL-based data analysis
+
+## Repository Purpose
+
+This repository is part of my practical training in **Data Engineering, Backend Development, and Data Science**.
+
+The exercises demonstrate hands-on experience with relational databases, SQL query development, Python database access, and analysis of structured datasets.
+
+## Course
+
+**IBM — Databases and SQL for Data Science with Python**  
+Coursera: https://www.coursera.org/learn/sql-data-science
 
 ---
 
-⚠️ Important:  
-The data used here is **borrowed from publicly available resources**.  
-I am not the original developer of these databases.  
-They are provided only as **examples for learning and demonstration purposes**.  
-
-At the same time, I am able to:  
-- **Design new databases from scratch**,  
-- **Optimize and refactor existing databases**,  
-- **Improve performance** of legacy systems.  
-
----
-
-# 📌 Example Databases
-
-## 🔹 Microsoft SQL Server (MSSQL)
-| Database        | Description                                                                 | Link |
-|-----------------|-----------------------------------------------------------------------------|------|
-| **Northwind**   | Classic sample database with customers, orders, products, and suppliers. Ideal for learning queries and joins. | [GitHub - Northwind](https://github.com/microsoft/sql-server-samples/tree/main/samples/databases/northwind-pubs) |
-| **AdventureWorks** | Enterprise-level demo database covering sales, HR, production, and finance. Great for complex query practice and reporting. | [GitHub - AdventureWorks](https://github.com/microsoft/sql-server-samples/releases/tag/adventureworks) |
-
-## 🔹 PostgreSQL
-| Database      | Description                                                                 | Link |
-|---------------|-----------------------------------------------------------------------------|------|
-| **DVD Rental** | Movie rental store example with tables for films, actors, customers, and rentals. Good for practicing transactions and joins. | [PostgreSQL Tutorial - DVD Rental](https://www.postgresqltutorial.com/postgresql-sample-database/) |
-
-## 🔹 MySQL
-| Database      | Description                                                                 | Link |
-|---------------|-----------------------------------------------------------------------------|------|
-| **Sakila**     | Sample database modeling a DVD rental system, similar to PostgreSQL’s DVD Rental, but designed for MySQL. | [MySQL Documentation - Sakila](https://dev.mysql.com/doc/sakila/en/) |
-| **Employees**  | HR-focused database containing employees, salaries, departments, and job history. Excellent for practicing aggregation and subqueries. | [MySQL Documentation - Employees](https://dev.mysql.com/doc/employee/en/) |
-
-
----
-
-📌 These databases are not my original work — they are well-known **demo databases from official vendors**.  
-They are included here to show how SQL queries, reporting, and analytics can be practiced safely.  
-
----
-
-At the moment, this section remains **under consideration and development**.  
-Future updates may include:  
-- Small demo databases for practicing SQL queries.  
-- Example schemas for analytics and reporting.  
-- Test data for integration with scripts and applications.  
+*Educational and practice repository.*
