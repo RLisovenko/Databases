@@ -15,6 +15,29 @@ Database creation and restoration resources for the
 - [View database instructions](https://github.com/RLisovenko/UDC-UniversalDataConverter/tree/main/4_BAK_SQL_DB_UDC)
 - [Database creation script](https://github.com/RLisovenko/UDC-UniversalDataConverter/tree/main/4_BAK_SQL_DB_UDC/database/Converter_NEW_UDC_full.sql)
 - [Database backup](https://github.com/RLisovenko/UDC-UniversalDataConverter/tree/main/4_BAK_SQL_DB_UDC/database/Converter_UDC.bak)
+## Database Preview
+
+### Database structure
+
+The UDC database includes measurement records, imported data,
+field mapping configuration, a parameter catalog, and an export view.
+
+![UDC database structure](pic/database-structure.png)
+
+### Imported data — `dbo.data_measure_map`
+
+Stores imported records in a standardized format: subject identifier,
+measurement date, parameter, value, unit, and comment.
+Import and export timestamps help track data exchange.
+
+![Imported measurement records](pic/data-measure-map.png)
+
+### Parameter catalog — `dbo.list_measurement_parameter`
+
+Defines measurement parameters, their units, descriptions, and active
+status. Examples include glucose, temperature, CRP, and heart rate.
+
+![Measurement parameter catalog](pic/measurement-parameters.png)
 ---
 
 ⚠️ Important:  
