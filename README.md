@@ -6,19 +6,15 @@ data modeling, and integration with applications.
 However, it is **strictly prohibited to publish or share production databases** due to confidentiality and security reasons.  
 For this reason, only **test or demo databases** will be considered for inclusion here (e.g., synthetic datasets or public samples).  
 
-# UDC — Database Setup and Backup
+# Universal Data Converter — Database Example
 
 Database creation and restoration resources for the
-[Universal Data Converter](../README.md) project.
-
-Application setup instructions:
-- [Desktop application — 1_udc](../1_udc/)
-- [Web application — 2_UDC_web](../2_UDC_web/)
-
+([Universal Data Converter](https://github.com/RLisovenko/UDC-UniversalDataConverter)) project.
+[View database files and instructions](https://github.com/RLisovenko/UDC-UniversalDataConverter/tree/main/4_BAK_SQL_DB_UDC)
 ## Downloads
-
-- [Database creation script](database/Converter_NEW_UDC_full.sql)
-- [Database backup](database/Converter_UDC.bak)
+[View database files and instructions](https://github.com/RLisovenko/UDC-UniversalDataConverter/tree/main/4_BAK_SQL_DB_UDC)
+- [Database creation script](https://github.com/RLisovenko/UDC-UniversalDataConverter/tree/main/4_BAK_SQL_DB_UDC/database/Converter_NEW_UDC_full.sql)
+- [Database backup](https://github.com/RLisovenko/UDC-UniversalDataConverter/tree/main/4_BAK_SQL_DB_UDC/database/Converter_UDC.bak)
 ---
 
 ⚠️ Important:  
