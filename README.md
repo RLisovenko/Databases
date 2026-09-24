@@ -6,6 +6,19 @@ data modeling, and integration with applications.
 However, it is **strictly prohibited to publish or share production databases** due to confidentiality and security reasons.  
 For this reason, only **test or demo databases** will be considered for inclusion here (e.g., synthetic datasets or public samples).  
 
+# UDC — Database Setup and Backup
+
+Database creation and restoration resources for the
+[Universal Data Converter](../README.md) project.
+
+Application setup instructions:
+- [Desktop application — 1_udc](../1_udc/)
+- [Web application — 2_UDC_web](../2_UDC_web/)
+
+## Downloads
+
+- [Database creation script](database/Converter_NEW_UDC_full.sql)
+- [Database backup](database/Converter_UDC.bak)
 ---
 
 ⚠️ Important:  
