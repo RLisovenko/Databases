@@ -19,8 +19,8 @@ Database creation and restoration resources for the
 [View database files](https://github.com/RLisovenko/UDC-UniversalDataConverter/tree/main/4_BAK_SQL_DB_UDC)
 ## Downloads
 - [View database instructions](https://github.com/RLisovenko/UDC-UniversalDataConverter/tree/main/4_BAK_SQL_DB_UDC)
-- [Database creation script](https://github.com/RLisovenko/UDC-UniversalDataConverter/tree/main/4_BAK_SQL_DB_UDC/database/Converter_NEW_UDC_full.sql)
-- [Database backup](https://github.com/RLisovenko/UDC-UniversalDataConverter/tree/main/4_BAK_SQL_DB_UDC/database/Converter_UDC.bak)
+- [Database creation script](https://github.com/RLisovenko/UDC-UniversalDataConverter/blob/main/4_BAK_SQL_DB_UDC/database/Converter_NEW_UDC_full.sql)
+- [Database backup](https://github.com/RLisovenko/UDC-UniversalDataConverter/blob/main/4_BAK_SQL_DB_UDC/database/Converter_UDC.bak)
 ## Database Preview
 
 ### Database structure
