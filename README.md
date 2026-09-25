@@ -47,7 +47,7 @@ status. Examples include glucose, temperature, CRP, and heart rate.
 ---
 
 ---------------
-## ⚠️ Important:  Third-Party Sample Databases
+### ⚠️ Important:  Third-Party Sample Databases
 
 The databases listed below are publicly available examples created
 by their respective authors and vendors. I am not their original
