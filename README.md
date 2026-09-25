@@ -6,7 +6,13 @@ data modeling, and integration with applications.
 However, it is **strictly prohibited to publish or share production databases** due to confidentiality and security reasons.  
 For this reason, only **test or demo databases** will be considered for inclusion here (e.g., synthetic datasets or public samples).  
 
-# Universal Data Converter — Database Example
+## My Database Projects
+
+The following database was developed as part of my Universal Data
+Converter project. It demonstrates database design, standardized
+data exchange, and integration with a Python application.
+
+### Universal Data Converter — Database Example
 
 Database creation and restoration resources for the
 ([Universal Data Converter](https://github.com/RLisovenko/UDC-UniversalDataConverter)) project.
@@ -40,17 +46,20 @@ status. Examples include glucose, temperature, CRP, and heart rate.
 ![Measurement parameter catalog](pic/measurement-parameters.png)
 ---
 
-⚠️ Important:  
-The data used here is **borrowed from publicly available resources**.  
-I am not the original developer of these databases.  
-They are provided only as **examples for learning and demonstration purposes**.  
+---------------
+## ⚠️ Important:  Third-Party Sample Databases
 
-At the same time, I am able to:  
-- **Design new databases from scratch**,  
-- **Optimize and refactor existing databases**,  
-- **Improve performance** of legacy systems.  
+The databases listed below are publicly available examples created
+by their respective authors and vendors. I am not their original
+developer.
 
----
+They are referenced here for learning, SQL practice, and exploration
+of database design. Ownership and licensing remain with the original
+authors.
+
+This section is separate from my own UDC database project above.  
+
+---------------
 
 # 📌 Example Databases
 
@@ -74,7 +83,7 @@ At the same time, I am able to:
 
 ---
 
-📌 These databases are not my original work — they are well-known **demo databases from official vendors**.  
+📌 They are well-known **demo databases from official vendors**.  
 They are included here to show how SQL queries, reporting, and analytics can be practiced safely.  
 
 ---
