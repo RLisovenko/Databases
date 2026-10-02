@@ -44,7 +44,13 @@ Defines measurement parameters, their units, descriptions, and active
 status. Examples include glucose, temperature, CRP, and heart rate.
 
 ![Measurement parameter catalog](pic/measurement-parameters.png)
----
+------------------------------
+------------------------------
+### 🎓 Education and Certificates
+
+- 🔗 [Data Science](https://github.com/RLisovenko/Python/tree/Python/edu/DataScience) — Educational exercises and practical tasks with Python, pandas, SQL, data analysis, and Jupyter notebooks.
+- 🔗 [Data Science AI Development](https://github.com/RLisovenko/Python/tree/Python/edu/DataScience-AI-Dev) — Educational exercises and practical tasks in Data Science, AI development, Python, pandas, SQL, data analysis, and Jupyter notebooks.
+- 🔗 [SQL, Data Science & Python](https://github.com/RLisovenko/Databases/tree/db/edu-SQL-DataScience-Python) — Educational exercises and practical tasks with SQL, databases, Python, data analysis, and Data Science.
 
 ---------------
 ### ⚠️ Important:  Third-Party Sample Databases
